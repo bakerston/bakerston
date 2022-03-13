@@ -1,4 +1,5 @@
-![sumy7](https://komarev.com/ghpvc/?username=bakerston)  ![sumy7](https://visitor-badge.glitch.me/badge?page_id=bakerston.profile)
+![bakerston](https://komarev.com/ghpvc/?username=bakerston)  
+
 
 ### Hi there 👋
 
