@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 -->
 
 
-[![Bakerston's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakerston&show_icons=true&theme=tokyonight)
-)
-)](https://github.com/bakerston/github-readme-stats)
+![Bakerston's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakerston&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakerston&hide=jupyter%20notebook,html,matlab&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakerston&hide=jupyter%20notebook,html,matlab&theme=tokyonight)]
 
