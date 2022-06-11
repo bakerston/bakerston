@@ -1,10 +1,12 @@
 ![bakerston](https://komarev.com/ghpvc/?username=bakerston)  
 
 
-### Hi there 👋
+## Hi there 👋, this is Chi Zhang.
+### For more funny things, please go to [My Blog](https://bakerston.github.io/)
 
-- 📫 How to reach me: [bakerston.github.io](https://bakerston.github.io/)
-
+- 🌱 I’m currently learning Node
+- 😄 Pronouns: /tʃiː/
+- :video_game:  I am a Diamond Tier League of Legend player
 
 <p align="center">
 <img width="500" src="https://metrics.lecoq.io/bakerston?template=classic&repositories.forks=true&followup=1&followup.sections=repositories&config.timezone=Asia%2FShanghai&config.padding=0%2C%204%20%2B%2011%25/" alt="Github Metrics"/>
@@ -47,24 +49,6 @@
 [![](https://img.shields.io/badge/-Keras-f05032?style=flat-square&logo=keras&logoColor=white)](https://keras.io/)
 [![](https://img.shields.io/badge/-PyTorch-269539?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![](https://img.shields.io/badge/-Markdown-003545?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
-
-
-
-
-<!--
-**bakerston/bakerston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
