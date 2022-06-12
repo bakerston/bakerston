@@ -5,7 +5,6 @@
 ### For more funny things, please go to [My Blog](https://bakerston.github.io/)
 
 - 🌱 I’m currently learning Node
-- 😄 Pronouns: /tʃiː/
 - :video_game:  I am a Diamond Tier League of Legend player
 
 <p align="center">
