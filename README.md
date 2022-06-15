@@ -2,7 +2,7 @@
 
 
 ## Hi there 👋, this is Chi Zhang.
-### For more funny things, please go to [My Blog](https://bakerston.github.io/)
+### For more funny things, please go to [My Blog](https://bakerston.github.io/) (Rebuilding...Temporarily out of service)
 
 - 🌱 I’m currently learning Node
 - :video_game:  I am a Diamond Tier League of Legend player
