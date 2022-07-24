@@ -57,7 +57,4 @@
 
 
 
-![](https://activity-graph.herokuapp.com/graph?username=bakerston&theme=redical)
-
-
 
